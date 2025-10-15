@@ -1,5 +1,11 @@
 # hardhat
 
+## 3.0.8
+
+### Patch Changes
+
+- d2c9a7f: Don't swallow the original error when trying to improve installation error messages
+
 ## 3.0.7
 
 ### Patch Changes
